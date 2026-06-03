@@ -36,8 +36,11 @@ Conseguir minha primeira vaga como desenvolvedor e evoluir constantemente na ár
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorRussel&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRussel&layout=compact&theme=radical&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorRussel&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VitorRussel&theme=radical" />
 </p>
 
 ---
